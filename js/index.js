@@ -36,5 +36,5 @@ console.log(a === 'test' ? console.log('верно') : console.log('не вер�
 
 //8
 
-const a = +prompt('Введите число');
-console.log(a == 0 ? console.log('верно') : console.log('не верно'));
+const a = prompt('Введите число');
+console.log(a == 1 ? console.log('верно') : console.log('не верно'));
